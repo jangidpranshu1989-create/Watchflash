@@ -1,0 +1,6 @@
+{
+  "name": "WatchFlash",
+  "description": "Custom BLE Watch Face Uploader",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
